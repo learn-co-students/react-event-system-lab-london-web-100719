@@ -8,7 +8,7 @@ export default class EyesOnMe extends Component{
     }
 
     handleFocus(){
-        console.log("focus")
+        console.log("Good!")
     }
 
     render(){
